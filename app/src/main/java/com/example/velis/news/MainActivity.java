@@ -19,8 +19,9 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<List<Article>>{
 
+    // have to register for a key from the web site
     private static final String USGS_REQUEST_URL =
-            "https://content.guardianapis.com/search?q=debate&tag=politics/politics&from-date=2014-01-01&api-key=test&show-tags=contributor";
+            "https://content.guardianapis.com/search?q=debate&tag=politics/politics&from-date=2014-01-01&api-key=e2159454-fcc4-4338-b2ef-8486b52df1f9&show-tags=contributor";
     public static final String LOG_TAG = MainActivity.class.getName();
     /** TextView that is displayed when the list is empty */
     private TextView mEmptyStateTextView;
