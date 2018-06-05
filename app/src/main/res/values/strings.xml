@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Guardian News</string>
+    <!-- Text to display in the list when there are no articles [CHAR LIMIT=NONE] -->
+    <string name="no_articles">No articles found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="test">Sport</string>
+    <string name="author">Author:</string>
+</resources>
