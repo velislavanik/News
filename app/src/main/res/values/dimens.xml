@@ -6,7 +6,7 @@
     <dimen name="zero">0dp</dimen>
     <dimen name="news_widht">72dp</dimen>
     <dimen name="news_height">24dp</dimen>
-    <dimen name="layout_height">102dp</dimen>
+    <dimen name="layout_height">112dp</dimen>
     <dimen name="date_text_size">13sp</dimen>
     <dimen name="name_text_size">15sp</dimen>
     <dimen name="line_height">1dp</dimen>
